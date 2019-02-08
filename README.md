@@ -1,6 +1,6 @@
 <div align=center>
 
-![logo](/assets/logo.png)
+![logo](40321838.png)
 
 </div>
 
