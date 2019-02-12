@@ -11,7 +11,7 @@
 
 애플리케이션 아키텍처는 AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon Cognito를 사용합니다.
 
-! [아키텍처] (https://d1.awsstatic.com/Test%20Images/Kate%20Test%20Images/Serverless_Web_App_LP_assets-02.400d3f961e8e12b2640cc15cddf83510b6ecfc18.png)
+![아키텍처](https://d1.awsstatic.com/Test%20Images/Kate%20Test%20Images/Serverless_Web_App_LP_assets-16.7cbed9781201a79b9efa761807c4312e68b23485.png)
 
 진행 순서 
   1) 아키텍처에 사용되는 서비스 개념 정리 (~2/13)
