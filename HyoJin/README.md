@@ -1,6 +1,9 @@
 기간 : 2019년 2월 13일 ~ 2019년 2월 17일 
+
 주제 : 서버리스 웹 애플리케이션 구축
+
 난이도 : 하
+
 출처 : https://aws.amazon.com/ko/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/?trk=gs_card
 
 이 자습서에서는 사용자가 Wild Ryde 플릿에서 유니콘 탑승을 요청할 수 있도록 간단한 서버리스 웹 애플리케이션을 생성합니다. 
