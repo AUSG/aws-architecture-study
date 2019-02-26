@@ -63,7 +63,7 @@ Copy할 버킷이 없으므로 다음으로 넘어가자. 다음으로 넘어가
 >
 > https://s3.ap-northeast-2.amazonaws.com/aws-webapp-mj/40321838.png
 
-다음으로는 CloudFront 배포를 만들 것이다. CloudFront 배포를 만들려면 문서의 과정을 거쳐야 하는데, 그 중 가장 먼저 할 것은 CloudFront의 콘솔을 열어 **[Create Distribution]**을 선택한 후, [**Select a delivery method for your content**]의 [**Web**] 섹션에서 [**Get Started**]를 선택하는 것이다. 이 과정은 내가 따로 적을 필요없이 [문서](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html)에 매우 잘 나와있기 때문에 문서를 참고하도록 하자.
+다음으로는 CloudFront 배포를 만들 것이다. CloudFront 배포를 만들려면 문서의 과정을 거쳐야 하는데, 그 중 가장 먼저 할 것은 CloudFront의 콘솔을 열어 [**Create Distribution**]을 선택한 후, [**Select a delivery method for your content**]의 [**Web**] 섹션에서 [**Get Started**]를 선택하는 것이다. 이 과정은 내가 따로 적을 필요없이 [문서](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html)에 매우 잘 나와있기 때문에 문서를 참고하도록 하자.
 
 나는 S3를 설정한 것 외에는 전부 기본값을 사용해서 다음과 같은 CloudeFront Distributions(배포판)을 만들었다.
 
